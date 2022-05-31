@@ -1,2 +1,3 @@
 #!/bin/bash
-cd /var
+pwd
+ cd /alx-system_engineering-devops
