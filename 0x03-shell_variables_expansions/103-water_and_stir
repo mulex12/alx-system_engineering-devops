@@ -1,2 +1,2 @@
 #!/bin/bash
-bestchol=$((water+str))
+echo b
